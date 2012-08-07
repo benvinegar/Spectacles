@@ -8,14 +8,14 @@ Here's a sample question on Quora: [What is the Best JavaScript Framework?](http
 
 ### Before
 
-![Before](/img/before.jpg)
+![Before](https://raw.github.com/benvinegar/Spectacles/master/img/before.png)
 
 ### With Spectacles
 
-![After](/img/after.jpg)
+![After](https://raw.github.com/benvinegar/Spectacles/master/img/after.png)
 
 ## Credits
 
-Spectacles is 80% based on Matt Swanson's Google Chrome user script: https://gist.github.com/swanson
+Spectacles is 80% based on @swanson's Google Chrome user script: https://gist.github.com/swanson
 
 Ben Vinegar wrote 2 additional lines of jQuery, bundled the code as a Chrome Plugin, and put together this kickass README.
