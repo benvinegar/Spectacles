@@ -16,7 +16,11 @@ Here's a sample question on Quora: [What is the Best JavaScript Framework?](http
 
 ## Installation
 
-* Download Spectacles, and unzip
+You can install Spectacles via the [Chrome Web Store](https://chrome.google.com/webstore/detail/kbckpcgmpkkfdjhmhiomnnaabojgibch?hl=en&gl=US).
+
+You can also download and install from GitHub using these instructions:
+
+* Download Spectacles (unzipped)
 * Go to Chrome -> Manage Extensions
 * Enable Developer mode (top-right)
 * Click "Load unpacked extension ..."
