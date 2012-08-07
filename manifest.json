@@ -1,0 +1,16 @@
+{
+  "name": "Quorum",
+  "description": "Remove Quora's answer obfuscation",
+  "version": "0.1",
+  "minimum_chrome_version": "20.0.0",
+  "content_scripts": [
+    {
+        "matches": ["http://*.quora.com/*", "https://*.quora.com/*"],
+        "js": [
+            "lib/jquery.js",
+            "spectacles.js"
+        ]
+    }
+  ],
+  "manifest_version": 2
+}
