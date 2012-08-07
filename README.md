@@ -30,7 +30,7 @@ You can also download and install from GitHub using these instructions:
 
 ## Credits
 
-Spectacles is 80% based on [Matt Swanson's](http://github.com/swanson) Chrome user script: https://gist.github.com/swanson
+Spectacles is 80% based on [Matt Swanson's](http://github.com/swanson) Chrome user script: https://gist.github.com/3208442
 
 Icon from Manuel Lopez's [trainee icon set](http://emey87.deviantart.com/art/trainee-iconset-226-icons-192928994) (non-commercial license).
 
