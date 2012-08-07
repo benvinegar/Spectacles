@@ -1,6 +1,6 @@
 # Spectacles - Anonymous browsing for Quora
 
-Spectacles is a Chrome Browser plugins that removes Quora's answer obfuscation for anonymous users.
+Spectacles is a Chrome Browser plugin that removes Quora's answer obfuscation for anonymous users.
 
 ## What it looks like
 
