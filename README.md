@@ -14,6 +14,14 @@ Here's a sample question on Quora: [What is the Best JavaScript Framework?](http
 
 ![After](https://raw.github.com/benvinegar/Spectacles/master/img/after.png)
 
+## Installation
+
+* Download Spectacles, and unzip
+* Go to Chrome -> Manage Extensions
+* Enable Developer mode (top-right)
+* Click "Load unpacked extension ..."
+* Select the unpacked Spectacles folder - boom, you're done
+
 ## Credits
 
 Spectacles is 80% based on @swanson's Google Chrome user script: https://gist.github.com/swanson
