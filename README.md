@@ -2,9 +2,11 @@
 
 Spectacles is a Chrome Browser plugin that removes Quora's answer obfuscation for anonymous users.
 
+NOTE: Not all logged out users see this blur effect. It seems to happen 100% of the time when accessed from Google.
+
 ## What it looks like
 
-Here's a sample question on Quora: [What is the Best JavaScript Framework?](http://www.quora.com/What-is-the-best-JavaScript-framework)
+Here's a sample question on Quora: [What is the Best JavaScript Framework?](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CGIQFjAB&url=http%3A%2F%2Fwww.quora.com%2FWhat-is-the-best-JavaScript-framework&ei=QVshUMzGDMek2gWwpoDgDQ&usg=AFQjCNHqsKDVMwskboUD4xxL242RYA02Tg)
 
 ### Before
 
