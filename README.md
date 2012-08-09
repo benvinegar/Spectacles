@@ -30,11 +30,11 @@ You can also download and install from GitHub using these instructions:
 
 ## Credits
 
-Spectacles is 80% based on [Matt Swanson's](http://github.com/swanson) Chrome user script: https://gist.github.com/3208442
+Spectacles is based on [Matt Swanson's](http://github.com/swanson) Chrome user script: https://gist.github.com/3208442
 
 Icon from Manuel Lopez's [trainee icon set](http://emey87.deviantart.com/art/trainee-iconset-226-icons-192928994) (non-commercial license).
 
-Ben Vinegar wrote 2 additional lines of jQuery, bundled the code as a Chrome Plugin, and put together this kickass README.
+Ben Vinegar wrote a few more lines of JavaScript, bundled the code as a Chrome Plugin, and put together this kickass README.
 
 ## License
 
