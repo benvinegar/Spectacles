@@ -1,5 +1,9 @@
 # Spectacles - Anonymous browsing for Quora
 
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
+**Deprecation notice**: *Spectacles worked for a period in 2012 when Quora used simple client-side obfuscation techniques. They've since pivoted between different obfuscation techniques, and today appear to use no obfuscation at all. Either way, Spectacles is no longer functional. The README continues below for posterity.*
+
 Spectacles is a Chrome Browser plugin that removes Quora's answer obfuscation for anonymous users.
 
 NOTE: Not all logged out users see this blur effect. It seems to happen 100% of the time when accessed from Google.
